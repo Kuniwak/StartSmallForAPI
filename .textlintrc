@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "preset-japanese": {
+      "ja-no-mixed-period": {
+        "periodMark": "。",
+        "allowPeriodMarks": [":"],
+        "allowEmojiAtEnd": true,
+        "forceAppendPeriod": false
+      }
+    }
+  }
+}
