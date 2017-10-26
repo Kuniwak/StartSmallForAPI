@@ -30,7 +30,6 @@
 
 /* Begin PBXFileReference section */
 		2475E499D77555D208B0D5D1 /* GitHubAPITests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GitHubAPITests.swift; sourceTree = "<group>"; };
-		2475E5649E795753E4FA6498 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2475EC5288515041F48BF447 /* GitHubAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GitHubAPI.swift; sourceTree = "<group>"; };
 		2475EC89169D9FEB318DD316 /* WebAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebAPI.swift; sourceTree = "<group>"; };
 		624757641F9B60D300296E50 /* PromiseKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PromiseKit.framework; path = Carthage/Build/iOS/PromiseKit.framework; sourceTree = "<group>"; };
@@ -79,7 +78,6 @@
 				62AC59F91F9B44DF006E5A59 /* StartSmallForAPITests */,
 				62AC59E31F9B44DE006E5A59 /* Products */,
 				624757631F9B60D300296E50 /* Frameworks */,
-				2475E5649E795753E4FA6498 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
