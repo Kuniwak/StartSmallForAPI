@@ -116,7 +116,7 @@ enum WebAPI {
         }
 
         var headers: [String: String] = [:]
-        for (key, value) in headers.enumerated() {
+        for (key, value) in response.allHeaderFields.enumerated() {
             headers[key.description] = String(describing: value)
         }
 
